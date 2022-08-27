@@ -12,11 +12,11 @@ export async function getStaticPaths({ paginate }) {
     })
 }
 
-const title = 'Astro Themes';
+const title = 'Творчество Тимофея Роняева';
 const { page } = Astro.props;
 
 ---
 
-<Layout title={title} lang="en">
+<Layout title={title} lang="ru">
   <List title={title} posts={page.data} page={page} />
 </Layout>
