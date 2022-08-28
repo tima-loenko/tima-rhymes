@@ -1,5 +1,5 @@
 ---
-title: ""Эпиграмма""
+title: "Эпиграмма"
 date: 2022-08-28T00:00:00Z
 slug: "daniil-perekryostov"
 description: "На Даниила Перекрёстова"
