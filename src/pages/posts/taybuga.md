@@ -1,8 +1,8 @@
 ---
 title: "Сказание о Тайбуге"
 date: 2022-08-29T00:00:00Z
-slug: "burger-killer"
-description: ""
+slug: "taybuga"
+description: "Сибирское народное сказание о татарском хане Тайбуге и о подвигах его"
 categories: ["рассказы"]
 tags: ["история", "россия", "мифология"]
 layout: "../../layouts/PostLayout.astro"
