@@ -1,7 +1,7 @@
 ---
 title: "Эпиграмма"
 date: 2022-08-29T00:00:00Z
-slug: "daniil-perekryostov"
+slug: "alexander-from-nefteugansk"
 description: "На Александра из Нефтеуганска"
 categories: ["стихи"]
 tags: ["эпиграммы"]
