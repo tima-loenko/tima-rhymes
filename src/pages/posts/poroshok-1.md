@@ -4,7 +4,7 @@ date: 2022-08-28T00:00:00Z
 slug: "poroshok-1"
 description: ""
 categories: ["стихи"]
-tags: ["порошки", "коты"]
+tags: ["порошки", "животные"]
 layout: "../../layouts/PostLayout.astro"
 ---
 
