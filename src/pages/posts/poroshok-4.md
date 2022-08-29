@@ -1,7 +1,7 @@
 ---
 title: "Назар у нас, играя в lego..."
 date: 2022-08-29T00:00:00Z
-slug: "poroshok-"
+slug: "poroshok-4"
 description: ""
 categories: ["стихи"]
 tags: ["порошки", "семейное"]
