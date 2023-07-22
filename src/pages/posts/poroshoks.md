@@ -16,6 +16,7 @@ layout: "../../layouts/PostLayout.astro"
 
 карась
 
+***
 
 кричал не глядя на дорогу
 
@@ -25,6 +26,7 @@ layout: "../../layouts/PostLayout.astro"
 
 грибник
 
+***
 
 назар у нас играя в лего
 
@@ -34,6 +36,7 @@ layout: "../../layouts/PostLayout.astro"
 
 да как
 
+***
 
 идет крайстчерчский бакалавр
 
@@ -43,6 +46,7 @@ layout: "../../layouts/PostLayout.astro"
 
 болван
 
+***
 
 идет во фраке англичанин
 
@@ -52,6 +56,7 @@ layout: "../../layouts/PostLayout.astro"
 
 оу шит
 
+***
 
 с утра у папы на коленях
 
