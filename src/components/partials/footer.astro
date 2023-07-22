@@ -10,9 +10,9 @@ import Config from "../../config.cjs";
           <p>{ Config.siteDescription }</p>
       </div>
       <div class="col-4 col-md-2 mb-4">
-          <h2 class="h5 mb-3">Menu</h2>
+          <h2 class="h5 mb-3">Меню</h2>
           <ul class="nav flex-column">
-              <li class="mb-1"><a href={ Config.siteBaseUrl } class="text-secondary">Home</a></li>
+              <li class="mb-1"><a href={ Config.siteBaseUrl } class="text-secondary">Главная</a></li>
               { Config.memus.map( menu => (
                 <li class="mb-1"><a href={menu.url} class="text-secondary">{ menu.name }</a></li>
               )) }
@@ -25,7 +25,6 @@ import Config from "../../config.cjs";
   <div class="d-flex flex-column flex-sm-row justify-content-sm-between align-items-center">
       <div class="text-muted mb-3">
           { Config.siteCopyright }
-          <p><a href="https://10mohi6.tk" class="text-reset">design</a> <a href="https://github.com/dofbi/hugo-theme-simple-blog-to-astro-theme" class="text-reset">theme</a></p>
       </div>
   </div>
 </div>

@@ -43,11 +43,13 @@
   }
   
   .link-tag {
-    text-decoration: underline
+    text-decoration: underline;
+    margin-right: 8px;
+    white-space: nowrap;
   }
   
   .link-tag:hover{
-    text-decoration: none
+    text-decoration: none;
   }
   
   .card-title a {
