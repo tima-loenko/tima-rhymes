@@ -4,7 +4,7 @@ date: 2023-07-22T00:00:00Z
 slug: "new-year-tyumen"
 description: ""
 categories: ["стихи"]
-tags: ["тюмень", "россия"]
+tags: ["тюмень", "россия", "новыйгод"]
 layout: "../../layouts/PostLayout.astro"
 ---
 
