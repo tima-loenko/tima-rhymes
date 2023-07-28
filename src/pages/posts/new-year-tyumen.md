@@ -2,7 +2,7 @@
 title: "Новогодняя Тюмень"
 date: 2023-07-22T00:00:00Z
 slug: "new-year-tyumen"
-description: ""
+description: "__"
 categories: ["стихи"]
 tags: ["тюмень", "россия", "новыйгод"]
 layout: "../../layouts/PostLayout.astro"

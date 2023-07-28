@@ -2,7 +2,7 @@
 title: "Подражание Гомеру"
 date: 2023-07-23T00:00:04Z
 slug: "parody-gomer"
-description: ""
+description: "__"
 categories: ["стихи"]
 tags: ["пародии"]
 layout: "../../layouts/PostLayout.astro"

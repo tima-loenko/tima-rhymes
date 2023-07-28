@@ -2,7 +2,7 @@
 title: "Гамбургер-убийца"
 date: 2022-08-29T00:00:00Z
 slug: "burger-killer"
-description: ""
+description: "__"
 categories: ["рассказы"]
 tags: ["хоррор", "еда"]
 layout: "../../layouts/PostLayout.astro"

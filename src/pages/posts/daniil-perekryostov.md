@@ -4,7 +4,7 @@ date: 2022-08-28T00:00:00Z
 slug: "daniil-perekryostov"
 description: "На Даниила Перекрёстова"
 categories: ["стихи"]
-tags: ["эпиграммы", "сатира"]
+tags: ["эпиграммы", "сатира", "школа"]
 layout: "../../layouts/PostLayout.astro"
 ---
 
